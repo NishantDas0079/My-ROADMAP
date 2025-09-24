@@ -127,4 +127,27 @@ MLOps	:- Docker, Kubernetes, Flask/FastAPI, MLflow, CI/CD
 
 Big Data :-	Spark, Hive, Kafka, Hadoop Ecosystem
 
-Deployment :-	AWS Sagemaker, GCP AI Platform, Azure ML
+Deployment :-	AWS Sagemaker, GCP AI Platform, Azure. 
+
+
+
+
+# Career Opportunities for a Full-Stack Data Scientist (FSDS)
+
+Junior / Associate Data Scientist (0-2 yrs) → ₹6–12 LPA
+
+Data Scientist (2-5 yrs) → ₹12–25 LPA
+
+Data Engineer (2-5 yrs) → ₹10–22 LPA
+
+ML Engineer / Deep Learning Engineer (2-5 yrs) → ₹12–25 LPA
+
+MLOps Engineer (3-6 yrs) → ₹15–28 LPA
+
+Full-Stack Data Scientist / AI Engineer (3-7 yrs) → ₹18–35 LPA
+
+Senior / Lead Data Scientist (5-8 yrs) → ₹25–40+ LPA
+
+Principal / Architect / Managerial (8–12 yrs) → ₹40–60+ LPA (sometimes higher in product/AI-first companies)
+
+---
