@@ -5,7 +5,7 @@ I am designing my roadmap in order to learn and master the skills required for b
 
 
 
-# Phase 1 – Core Foundations (Months 0–3)
+# Phase 1 – Core Foundations 
 
 Objective: Get strong in programming, math, and databases.
 
@@ -21,7 +21,7 @@ Databases: SQL (Postgres/MySQL), NoSQL basics (MongoDB)
 
 
 
-# Phase 2 – Data Engineering Foundations (Months 3-6)
+# Phase 2 – Data Engineering Foundations 
 
 Objective: Learn how to handle and move big data.
 
@@ -37,7 +37,7 @@ Cloud Basics: AWS S3, EC2, GCP, Azure
 
 
 
-# Phase 3 – Data Science & ML (months 6-9) 
+# Phase 3 – Data Science & ML 
 
 Objective: Learn analysis + ML models.
 
@@ -59,7 +59,7 @@ Experimentation: Cross-validation, grid search
 
 
 
-# Phase 4 – Advanced ML + Deep Learning (Months 9-12) 
+# Phase 4 – Advanced ML + Deep Learning
 
 Objective: Become skilled in modern AI.
 
@@ -78,7 +78,7 @@ Computer Vision: Image classification, object detection
 
 
 
-# Phase 5 – MLOps & Deployment (Months 12-15)
+# Phase 5 – MLOps & Deployment
 
 Objective: Implementation of ML models.
 
