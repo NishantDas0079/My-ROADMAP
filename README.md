@@ -100,11 +100,17 @@ Monitoring: MLflow, Prometheus, Grafana
 # Mini Projects 
 
 Sales data analysis with SQL + Pandas
+
 Build a pipeline: Collect data (API/web scraping) → clean → store in DB
+
 Real-time streaming dashboard (Kafka + Spark + visualization)
+
 Predict house prices (Regression)
+
 Image classifier (Cats vs Dogs)
+
 Fake news detection with Transformers
+
 Deploy churn prediction model with Flask + Docker on AWS. 
 
 
